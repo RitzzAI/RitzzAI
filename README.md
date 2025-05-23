@@ -1,37 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">Student | Aspiring Data Scientist | Eager to Solve Real-World Problems</h3>
-
-- 🔭 I’m currently working on **projects in Data Science and Machine Learning**
-
-- 🌱 I’m learning **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**
-
-- 📫 Reach me at: **borkarritesh5@gmail.com**
-
-- 🧑‍💻 All of my projects are available at: [ritzzai.github.io](https://ritzzai.github.io)
-
-- 💬 Ask me about **data analysis, cleaning, visualization, and beginner ML models**
-
-- 📄 Know about my experiences: [Resume](https://github.com/RitzzAI/resume/blob/main/Ritesh_Borkar_Resume.pdf)
-
-- 🌐 Let's connect on: [LinkedIn](https://www.linkedin.com/in/ritzzai/)
-
----
-
-### 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7F9C96?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">👋 Hey there, I'm Ritesh</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitzzAI&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitzzAI&layout=compact&theme=radical" />
+  <strong>Data Science Enthusiast | Python & SQL Learner | Passionate Problem Solver</strong>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritzzai/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:borkarritesh5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://ritzzai.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🧠 Currently diving deep into **Data Science & Machine Learning**
+- 🛠️ Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn**
+- 📊 Learning to build clean dashboards and visual stories with **Power BI & Excel**
+- 📁 Building real-world projects to showcase practical data skills
+- 🎯 Goal: Become an **Internship-Ready Data Scientist** in 3–4 months
+
+---
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,mysql,git,github,vscode,html,css" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitzzAI&show_icons=true&theme=transparent&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitzzAI&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+> 📍 _Coming soon_ – Projects on data cleaning, EDA, and machine learning will appear here.
+
+---
+
+### 📄 Resume
+
+[📎 View my Resume](https://github.com/RitzzAI/resume/blob/main/Ritesh_Borkar_Resume.pdf)
+
+---
+
+### 🌐 Let's Connect!
+
+I love to learn and collaborate. Feel free to reach out if you'd like to discuss tech, projects, or anything exciting!
+
 
