@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ritzzai/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:borkarritesh5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://ritzzai.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://ritzzai.github.io/portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
