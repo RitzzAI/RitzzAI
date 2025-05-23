@@ -46,7 +46,8 @@
 
 ### 📄 Resume
 
-[📎 View My Resume (docx)](https://github.com/RitzzAI/resume/blob/main/Ritesh_Borkar_Resume.docx)
+Ritesh_Borkar_Resume.docx
+(https://github.com/RitzzAI/resume/blob/main/Ritesh_Borkar_Resume.docx)
 
 ---
 
