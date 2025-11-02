@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Ritesh</h1>
 <p align="center">
-  <strong>Data Science Enthusiast | Python & SQL Learner | Passionate Problem Solver</strong>
+  <strong>AI Business Analyst Enthusiast | Python & SQL Learner | Passionate Problem Solver</strong>
 </p>
 
 <p align="center">
@@ -13,12 +13,11 @@
 
 ### 🚀 About Me
 
-- 🧠 Currently diving deep into **Data Science & Machine Learning**
-- 🛠️ Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn**
-- 📊 Learning to build clean dashboards and visual stories with **Power BI & Excel**
+- 🧠 Currently diving deep into **MMS (MASTER OF MANAGEMENT STUDIES)**
+- 🛠️ Skilled in **Python**
+- 📊 Learning to build clean dashboards and visual stories with **Power, SQL, Pandas, NumPy, Matplotlib, Seaborn BI & Excel**
 - 📁 Building real-world projects to showcase practical data skills
-- 🎯 Goal: Become an **Internship-Ready Data Scientist** in 3–4 months
-
+- 🎯 Goal: Become an **AI Business Analyst**
 ---
 
 ### 🔧 Tools & Technologies
